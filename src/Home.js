@@ -30,21 +30,21 @@ function Home() {
         </div>
         <div className="home__row">
           <Product
-            id="1342345"
+            id="134235"
             title="FEAR OF GOD Grey Nylon Track Shorts"
             price={99.9}
             image="https://img.ssensemedia.com/images/b_white,g_center,f_auto,q_auto:best/211782M193102_1/fear-of-god-grey-nylon-track-shorts.jpg"
             rating={5}
           />
           <Product
-            id="1342345"
+            id="132345"
             title="FEAR OF GOD Green Nylon Track Shorts"
             price={199.9}
             image="https://img.ssensemedia.com/images/b_white,g_center,f_auto,q_auto:best/211782M193101_1/fear-of-god-green-nylon-track-shorts.jpg"
             rating={5}
           />
           <Product
-            id="1342345"
+            id="134245"
             title="FEAR OF GOD Black Nylon Track Shorts"
             price={69.9}
             image="https://img.ssensemedia.com/images/b_white,g_center,f_auto,q_auto:best/211782M193103_1/fear-of-god-black-nylon-track-shorts.jpg"
