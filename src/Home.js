@@ -52,7 +52,13 @@ function Home() {
           />
         </div>
         <div className="home__row">
-          <Product />
+          <Product
+            id="84923"
+            title="Govee LED Light Bulb, Bluetooth Light Bulb A19 7W 60W Equivalent, Music Sync, Dimmable RGB Color Changing Light Bulb for Party, Timer for Sunrise and Sunset Mode"
+            price={21.99}
+            image="https://m.media-amazon.com/images/I/51nPiohp9-L._AC_SY480_.jpg"
+            rating={3}
+          />
         </div>
       </div>
     </div>
